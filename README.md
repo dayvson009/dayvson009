@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayvson009&" alt="dayvson009" /></p>
 
+<div>
 ![Snake animation](https://github.com/dayvson009/dayvson009/blob/output/github-contribution-grid-snake.svg)
+</div>
